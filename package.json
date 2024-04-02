@@ -1,0 +1,14 @@
+{
+  "name": "bot-v1",
+  "version": "1.0.0",
+  "description": "bot discord v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "blasterjaxx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
+}
